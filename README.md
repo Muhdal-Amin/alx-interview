@@ -1,0 +1,1 @@
+This repository contains my ALX Holebrton school Interview course.
