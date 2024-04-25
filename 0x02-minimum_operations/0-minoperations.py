@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A function that shows the minimum operations to get exactly n(H) characters"""
+"""calculates the minimum operations to get exactly n(H) characters"""
 
 
 def minOperations(n):
