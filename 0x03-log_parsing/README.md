@@ -1,1 +1,1 @@
-This directory contains my project files for the ALX Holberton school Log parsing course.
+This directory contains my project files for the ALX Holberton school Log generation and parsing course.
